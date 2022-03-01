@@ -5,4 +5,4 @@ A bot for scrapping journal articles matching a provided search term. The progra
 * Clone this repo
 * Open journal_article_scrapper.py and:
     * Replace the PATH with the actual path for your chrome web driver
-    * Save and run program
+    * Save and run the program
