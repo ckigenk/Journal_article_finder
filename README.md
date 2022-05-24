@@ -1,6 +1,6 @@
 # Journal_article_finder
-A bot for scrapping journal articles matching a provided search term. The program accepts a search term, and returns all the journal articles containing the search term, then writes the outputto a csv file:
-* Title
+A bot for scrapping journal articles matching a provided search term. The program accepts a search term, and returns all the journal articles containing the search term, then writes the output to a csv file:
+* Article Title
 * Authors
 * Journal name
 
