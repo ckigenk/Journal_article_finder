@@ -10,7 +10,6 @@ A bot for scrapping journal articles matching a provided search term. The progra
 **Python** 
 ``` 
 https://www.python.org/
-
 ```
 **Selenium** 
 ```
